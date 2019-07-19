@@ -89,7 +89,7 @@ $autoload['drivers'] = array();
 |
 |	$autoload['helper'] = array('url', 'file');
 */
-$autoload['helper'] = array('koski_helper','url','file');
+$autoload['helper'] = array('koskipos_helper','url','file');
 
 /*
 | -------------------------------------------------------------------
